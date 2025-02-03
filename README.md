@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/kalpesh55"><img src="https://api.daily.dev/devcards/v2/Z4qMGIYs4IawgN30J3ocm.png?r=jx7" width="356" alt="Kalpesh's Dev Card"/></a>
+<a href="https://app.daily.dev/kalpesh269"><img src="https://api.daily.dev/devcards/v2/Z4qMGIYs4IawgN30J3ocm.png?type=wide&r=0o4" width="652" alt="Kalpesh's Dev Card"/></a>
 
 
 - 👋 Hi, I’m @kalpesh269
